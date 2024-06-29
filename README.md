@@ -143,6 +143,20 @@ b.	Verify that the connection details (username, password, host, port, database,
 2.	Debugging Tips:
 a.	Use print() statements to debug issues by displaying variable values and results at various stages.
 
+How do you write programs that are maintainable, readable, and adaptable? What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+1.      To write programs that are maintainable, readable, and adaptable, it’s essential to follow best practices such as modular design, clear and consistent naming conventions, thorough documentation, and comprehensive testing. In Project One, the CRUD Python module was designed to interact with the MongoDB database efficiently. This module was reusable and provided a clean interface for database operations, which made connecting the dashboard widgets in Project Two straightforward and seamless. The module can be extended to support additional database operations or new types of queries. It can be integrated into other applications that require database connectivity, such as web services or data analysis tools. Lastly, serves as a teaching tool for illustrating how to implement and use CRUD operations with MongoDB in Python.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+1.       As a computer scientist, I approach problems by systematically breaking them down into manageable components, conducting thorough analysis, and applying best practices in design and development. For Grazioso Salvare's database and dashboard requirements, I began by understanding their needs, designing a MongoDB schema, and creating a reusable CRUD Python module for database interactions. This modular approach ensured that the database operations were efficient and easily integrated into the interactive dashboard built using Dash. Compared to previous assignments, this project emphasized real-world application, requiring a comprehensive understanding of both backend and frontend development. In future projects, I will employ techniques such as requirement workshops, prototyping, agile development, scalability considerations, and robust security practices. This ensures that databases and applications are not only effective and efficient but also scalable, secure, and tailored to meet specific client needs.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+1.       Computer scientists design and develop software systems to solve problems and improve technology and business operations. This work matters because it drives innovation, enhances productivity, and supports data-driven decision-making.
+
+2.       For a company like Grazioso Salvare, my project helps streamline data management and improve operational efficiency. By creating an interactive dashboard integrated with a robust database, staff can efficiently track and analyze animal data, monitor rescue operations, and make informed decisions. This leads to better resource allocation and supports their mission of rescuing and caring for animals.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
